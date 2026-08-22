@@ -16,6 +16,6 @@ Update the adjacent `<!-- ASSET: ... -->` comments in `index.html` when approved
 
 | File | Purpose | Public-facing constraint |
 |---|---|---|
-| `visuals/aperitivo-light-study.svg` | Local abstract aperitivo-light material used in the homepage hero | Do not represent it as the restaurant, food, menu, staff, guests, inventory, or a real Bar Mario mark. It is a non-documentary decorative treatment only. |
+| `visuals/aperitivo-light-study.svg` | Local abstract aperitivo-light material used behind the homepage’s refractive 3D stage | Do not represent it as the restaurant, food, menu, staff, guests, inventory, service outcomes, or a real Bar Mario mark. It is a non-documentary decorative treatment only. |
 
-Keep the hero contrast overlay in `index.html` when replacing this visual treatment.
+Keep the hero contrast overlay and the motion-independent reservation and ordering actions in `index.html` when replacing this visual treatment. The CSS refractive facets are an abstract material effect, not a menu or restaurant photograph.
