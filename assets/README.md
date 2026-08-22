@@ -11,3 +11,11 @@ The original file embedded large base64 assets, which have been removed. This si
 | `social/bar-mario-social-preview.jpg` | Social sharing card | Approved 1200 × 630px JPG/PNG. |
 
 Update the adjacent `<!-- ASSET: ... -->` comments in `index.html` when approved assets are supplied. Never use base64 embedding, unapproved restaurant photography, generic stock food, or AI-generated food imagery as a replacement.
+
+## Premium visual treatment
+
+| File | Purpose | Public-facing constraint |
+|---|---|---|
+| `visuals/aperitivo-light-study.svg` | Local abstract aperitivo-light material used in the homepage hero | Do not represent it as the restaurant, food, menu, staff, guests, inventory, or a real Bar Mario mark. It is a non-documentary decorative treatment only. |
+
+Keep the hero contrast overlay in `index.html` when replacing this visual treatment.
