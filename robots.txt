@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oumark24.github.io/Bar-Mario-Test-Run/sitemap.xml
